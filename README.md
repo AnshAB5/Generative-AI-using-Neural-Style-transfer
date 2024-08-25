@@ -18,15 +18,8 @@ The pretrained BigGAN model is fine-tuned on the dog dataset using appropriate t
 
 ## Results and Evaluation
 
-The generated dog images are evaluated based on various criteria, such as visual quality, diversity, and resemblance to real dogs. Quantitative metrics, like Frechet Inception Distance (FID), may be used to assess the quality and diversity of the generated images.
+The generated images are evaluated based on various criteria, such as visual quality, diversity, and resemblance to real dogs. Quantitative metrics, like Frechet Inception Distance (FID), may be used to assess the quality and diversity of the generated images.
 
-## Dependencies and Setup
-
-The code in this repository requires certain dependencies and setup instructions. Please refer to the provided documentation and requirements file for detailed information on how to install and configure the necessary libraries and environments.
-
-## Usage
-
-The repository includes code examples and instructions on how to use the pretrained BigGAN model for generating dog images. Detailed explanations are provided to guide users through the process of training the model, generating images, and fine-tuning the parameters as desired.
 
 ## Conclusion
 
